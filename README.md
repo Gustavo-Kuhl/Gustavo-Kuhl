@@ -1,9 +1,13 @@
 ## Hello World, I’m Gustavo Kuhl !!! :earth_americas:
 
+I'm always improving my skills (Front-end dev JR.)
+
+BIO
+-⚙️ I use daily: .js, .html, .css, .svg, .ai
 - Dev (Tech Student)
 - Lover of tech and coding :computer:
 
-## About me:
+## Reach me:
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/gustavo-kuhl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
