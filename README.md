@@ -3,9 +3,10 @@
 I'm always improving my skills (Front-end dev JR.)
 
 BIO
--⚙️ I use daily: .js, .html, .css, .svg, .ai
-- Dev (Tech Student)
-- Lover of tech and coding :computer:
+
+- :gear: I use daily: .js, .html, .css, .svg, .ai
+- :floppy_disk: Dev (Tech Student)
+- :computer: Lover of tech and coding 
 
 ## Reach me:
 
