@@ -4,7 +4,7 @@ I'm always improving my skills (Front-end dev JR.)
 
 BIO
 
-- :gear: I use daily: <code>.js</code>, .html, .css, .svg, .ai
+- :gear: I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.svg</code>, <code>.ai</code>
 - :floppy_disk: Dev (Tech Student)
 - :computer: Lover of tech and coding 
 
