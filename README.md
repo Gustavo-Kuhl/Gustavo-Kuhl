@@ -1,14 +1,24 @@
-## Hello World, I’m Gustavo Kuhl !!! :earth_americas:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-I'm always improving my skills (Front-end dev JR.)
+<h1 align="left"> 
+  Hello World, I’m Gustavo Kuhl !!! :earth_americas:
+</h1>
 
-BIO
+<p>
+   @ I'm always improving my skills (Front-end dev JR.)
+</p>
 
-- :gear: I use daily: <code>.js</code>, <code>.html</code>, <code>.scss</code>, <code>.css</code>, <code>.svg</code>, <code>.ai</code>
-- :floppy_disk: Dev (Tech Student)
-- :computer: Lover of tech and coding 
+<p align="left">
+   :gear: Skills: - I use daily: <code>.js</code>, <code>.html</code>, <code>.scss</code>, <code>.css</code>
+</p>
 
-## Reach me:
+<p align="left">
+  💼 Tools: <strong>VS Code, Git, Github</strong>
+</p>
+
+<p align="left">
+  💌 Send me a message, it will be a pleasure talk to you: ⤵️
+</p>
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/gustavo-kuhl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
