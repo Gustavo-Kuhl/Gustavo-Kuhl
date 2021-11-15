@@ -13,6 +13,10 @@
 </p>
 
 <p align="left">
+   :man_technologist: Learning: Vue.js
+ </p>
+
+<p align="left">
   💼 Tools: <strong>VS Code, Git, Github</strong>
 </p>
 
