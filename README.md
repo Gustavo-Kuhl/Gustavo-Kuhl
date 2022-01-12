@@ -9,15 +9,15 @@
 </p>
 
 <p align="left">
-   :gear: Skills: - I use daily: <code>.js</code>, <code>.html</code>, <code>.scss</code>, <code>.css</code>
+   :gear: Skills: - I use daily: <code>.js</code>, <code>.html</code>, <code>.scss</code>, <code>.css</code>, <code>ReactJS</code>
 </p>
 
 <p align="left">
-   :man_technologist: Learning: Vue.js
+   :man_technologist: Learning: React Native, MongoDB
  </p>
 
 <p align="left">
-  💼 Tools: <strong>VS Code, Git, Github</strong>
+  💼 Tools: <strong>VS Code, Git, Github, Insominia</strong>
 </p>
 
 <p align="left">
