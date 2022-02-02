@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  :man_technologist: Learning: <code>React Native</code>, <code>MongoDB</code>
+  :man_technologist: Learning: <code>ReactJS</code>, <code>MongoDB</code>, <code>NodeJS</code>
  </p>
 
 <p align="left">
